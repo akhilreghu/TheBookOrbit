@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">The Book Orbit</string>
+    <string name="title_activity_book">Book</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "155804088578",
+    "firebase_url": "https://thebookorbit-b1839.firebaseio.com",
+    "project_id": "thebookorbit-b1839",
+    "storage_bucket": "thebookorbit-b1839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155804088578:android:e0953dd7453d5b00",
+        "android_client_info": {
+          "package_name": "com.akhilinteractive.thebookorbit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155804088578-53kmfde4jpt4sb4dqvpp8tbabf0o9cq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akhilinteractive.thebookorbit",
+            "certificate_hash": "86e6b5026388c265d7fdfd3bf784eeedd8f7fccc"
+          }
+        },
+        {
+          "client_id": "155804088578-ab2639bq3nd78ni54nfuhp26vbamean1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq-rV3eMguE_A7aMgc7qu06FCIFJJ13Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155804088578-ab2639bq3nd78ni54nfuhp26vbamean1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
